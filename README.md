@@ -22,5 +22,4 @@ This repository was created as part of the task given by 100Hires.
 * I searched online and learned step by step
 * I explored the options in Cursor to understand how it works
 ## Conclusion
-This task helped me learn the basics of GitHub and Cursor. It was a new experience for me, and now I have a better understanding of how repositories and tools like Cursor work.
 This task helped me learn the basics of GitHub and Cursor. It was a new experience for me, and I now have a better understanding of how repositories and tools like Cursor work.
